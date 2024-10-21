@@ -9,6 +9,17 @@ This project implements custom image and video compression algorithms using Disc
 - **Metrics**: Evaluate compression quality with PSNR and SSIM.
 - **Visualization**: Visualize and compare original and compressed media.
 
+## Project Structure
+image-video-compression-algorithms/
+├── compress_image.py        # Image compression script
+├── compress_video.py        # Video compression script
+├── metrics.py               # Script to calculate PSNR, SSIM
+├── utils.py                 # Utility functions for compression
+├── README.md                # Project description
+├── requirements.txt         # Required libraries
+├── test_images/             # Test images for compression
+└── test_videos/             # Test videos for compression
+
 ## Getting Started
 
 ### Prerequisites
