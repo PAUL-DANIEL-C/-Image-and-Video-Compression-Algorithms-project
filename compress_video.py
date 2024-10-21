@@ -39,4 +39,6 @@ def compress_video(input_video_path, output_video_path, quality=50):
     print(f"Compressed video saved as {output_video_path}")
 
 if __name__ == "__main__":
-    compress_video('test_videos/input.mp4', 'test_videos/compressed_output.avi', quality=30)
+    # Example usage
+    compress_video('test_videos/sample1.mp4', 'test_videos/compressed_output.avi', quality=30)
+
