@@ -18,7 +18,8 @@ This project implements custom image and video compression algorithms using Disc
 ├── README.md                # Project description
 ├── requirements.txt         # Required libraries
 ├── test_images/             # Test images for compression
-└── test_videos/             # Test videos for compression```
+└── test_videos/             # Test videos for compression
+```
 
 ## Getting Started
 
