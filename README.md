@@ -11,14 +11,21 @@ This project implements custom image and video compression algorithms using Disc
 
 ## Project Structure
 ```image-video-compression-algorithms/
-├── compress_image.py        # Image compression script
-├── compress_video.py        # Video compression script
-├── metrics.py               # Script to calculate PSNR, SSIM
-├── utils.py                 # Utility functions for compression
-├── README.md                # Project description
-├── requirements.txt         # Required libraries
-├── test_images/             # Test images for compression
-└── test_videos/             # Test videos for compression
+├── compress_image.py
+├── compress_video.py
+├── metrics.py
+├── utils.py
+├── README.md
+├── requirements.txt
+├── test_images/
+│   ├── sample1.jpg
+│   ├── sample2.jpg
+│   └── sample3.jpg
+└── test_videos/
+    ├── sample1.mp4
+    ├── sample2.mp4
+    └── sample3.mp4
+
 ```
 
 ## Getting Started
