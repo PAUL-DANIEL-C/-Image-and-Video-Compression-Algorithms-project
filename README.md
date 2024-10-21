@@ -10,7 +10,8 @@ This project implements custom image and video compression algorithms using Disc
 - **Visualization**: Visualize and compare original and compressed media.
 
 ## Project Structure
-```image-video-compression-algorithms/
+```
+image-video-compression-algorithms/
 ├── compress_image.py
 ├── compress_video.py
 ├── metrics.py
