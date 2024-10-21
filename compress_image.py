@@ -32,4 +32,5 @@ def compress_image(image_path, output_path, quality=50):
 
 if __name__ == "__main__":
     # Example usage
-    compress_image('test_images/input.jpg', 'test_images/compressed_output.jpg', quality=30)
+    compress_image('test_images/sample1.jpg', 'test_images/compressed_output.jpg', quality=30)
+
